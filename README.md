@@ -1,6 +1,8 @@
 # Supply Chain Inventory Optimization Analysis
 ### Inventory Risk, Lead Time Performance & Quality Analysis
 
+![Supply Chain Dashboard](assets/Dashboard.png)
+
 ## Project Overview
 
 This project analyses inventory health across products and suppliers to identify stock risks, operational bottlenecks, and opportunities for inventory optimization.
